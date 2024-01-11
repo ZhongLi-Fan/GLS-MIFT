@@ -6,7 +6,6 @@ Zhongli Fan, Yingdong Pi*, Mi Wang*, Yifei Kang, Kai Tan
 
 Information Fusion 2024
 
-![2](https://github.com/ZhongLi-Fan/GLS-MIFT/assets/46316180/055f8d66-ea92-44e1-9fa5-5cd8594b6cd2)
 ![forGitHub](https://github.com/ZhongLi-Fan/GLS-MIFT/assets/46316180/7431f8a2-9f88-424b-9419-1cb146851c0a)
 
 
