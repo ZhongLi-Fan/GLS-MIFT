@@ -1,6 +1,7 @@
 # GLS-MIFT: A Modality Invariant Feature Transform with Global-to-Local Searching
 
 GLS-MIFT：A Modality Invariant Feature Transform with Global-to-Local Searching
+
 Zhongli Fan, Yingdong Pi*, Mi Wang*, Yifei Kang, Kai Tan
 
 Information Fusion 2024
