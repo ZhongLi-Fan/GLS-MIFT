@@ -1,7 +1,6 @@
 # GLS-MIFT: A Modality Invariant Feature Transform with Global-to-Local Searching
 
 GLS-MIFT：A Modality Invariant Feature Transform with Global-to-Local Searching
-
 Zhongli Fan, Yingdong Pi*, Mi Wang*, Yifei Kang, Kai Tan
 
 Information Fusion 2024
@@ -9,7 +8,7 @@ Information Fusion 2024
 ![forGitHub](https://github.com/ZhongLi-Fan/GLS-MIFT/assets/46316180/7431f8a2-9f88-424b-9419-1cb146851c0a)
 
 
-## GLS-MIFT Implementation
+## Implementation
 
 We provide a complete implementation of the GLS-MIFT algorithm, which relies on MATLAB 2021a.
 
