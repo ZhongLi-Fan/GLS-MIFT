@@ -6,13 +6,15 @@ Zhongli Fan, Yingdong Pi*, Mi Wang*, Yifei Kang, Kai Tan
 
 Information Fusion 2024
 
-![forGitHub](E:\PHD_Things\11.MIFT_paper\投稿information_fusion\Major\图片\forGitHub.jpg)
+![2](https://github.com/ZhongLi-Fan/GLS-MIFT/assets/46316180/055f8d66-ea92-44e1-9fa5-5cd8594b6cd2)
+![forGitHub](https://github.com/ZhongLi-Fan/GLS-MIFT/assets/46316180/7431f8a2-9f88-424b-9419-1cb146851c0a)
+
 
 ## GLS-MIFT Implementation
 
 We provide a complete implementation of the GLS-MIFT algorithm, which relies on MATLAB 2021a.
 
-![splash](E:\PHD_Things\6.algorithm_implements\4GLS_MIFT\result\exe\splash.png)
+![splash](https://github.com/ZhongLi-Fan/GLS-MIFT/assets/46316180/33ead260-4044-41ae-95fb-a8749ed55fa4)
 
 ## Dataset
 
